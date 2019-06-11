@@ -1,0 +1,104 @@
+PostalCode,Neighbourhood,Borough
+M1B,"Rouge,Malvern",Scarborough
+M1C,"Highland Creek,Rouge Hill,Port Union",Scarborough
+M1E,"Guildwood,Morningside,West Hill",Scarborough
+M1G,Woburn,Scarborough
+M1H,Cedarbrae,Scarborough
+M1J,Scarborough Village,Scarborough
+M1K,"East Birchmount Park,Ionview,Kennedy Park",Scarborough
+M1L,"Clairlea,Golden Mile,Oakridge",Scarborough
+M1M,"Cliffcrest,Cliffside,Scarborough Village West",Scarborough
+M1N,"Birch Cliff,Cliffside West",Scarborough
+M1P,"Dorset Park,Scarborough Town Centre,Wexford Heights",Scarborough
+M1R,"Maryvale,Wexford",Scarborough
+M1S,Agincourt,Scarborough
+M1T,"Clarks Corners,Sullivan,Tam O'Shanter",Scarborough
+M1V,"Agincourt North,L'Amoreaux East,Milliken,Steeles East",Scarborough
+M1W,L'Amoreaux West,Scarborough
+M1X,Upper Rouge,Scarborough
+M2H,Hillcrest Village,North York
+M2J,"Fairview,Henry Farm,Oriole",North York
+M2K,Bayview Village,North York
+M2L,"Silver Hills,York Mills",North York
+M2M,"Newtonbrook,Willowdale",North York
+M2N,Willowdale South,North York
+M2P,York Mills West,North York
+M2R,Willowdale West,North York
+M3A,Parkwoods,North York
+M3B,Don Mills North,North York
+M3C,"Flemingdon Park,Don Mills South",North York
+M3H,"Bathurst Manor,Downsview North,Wilson Heights",North York
+M3J,"Northwood Park,York University",North York
+M3K,"CFB Toronto,Downsview East",North York
+M3L,Downsview West,North York
+M3M,Downsview Central,North York
+M3N,Downsview Northwest,North York
+M4A,Victoria Village,North York
+M4B,"Woodbine Gardens,Parkview Hill",East York
+M4C,Woodbine Heights,East York
+M4E,The Beaches,East Toronto
+M4G,Leaside,East York
+M4H,Thorncliffe Park,East York
+M4J,East Toronto,East York
+M4K,"The Danforth West,Riverdale",East Toronto
+M4L,"The Beaches West,India Bazaar",East Toronto
+M4M,Studio District,East Toronto
+M4N,Lawrence Park,Central Toronto
+M4P,Davisville North,Central Toronto
+M4R,North Toronto West,Central Toronto
+M4S,Davisville,Central Toronto
+M4T,"Moore Park,Summerhill East",Central Toronto
+M4V,"Deer Park,Forest Hill SE,Rathnelly,South Hill,Summerhill West",Central Toronto
+M4W,Rosedale,Downtown Toronto
+M4X,"Cabbagetown,St. James Town",Downtown Toronto
+M4Y,Church and Wellesley,Downtown Toronto
+M5A,"Harbourfront,Regent Park",Downtown Toronto
+M5B,"Ryerson,Garden District",Downtown Toronto
+M5C,St. James Town,Downtown Toronto
+M5E,Berczy Park,Downtown Toronto
+M5G,Central Bay Street,Downtown Toronto
+M5H,"Adelaide,King,Richmond",Downtown Toronto
+M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+M5K,"Design Exchange,Toronto Dominion Centre",Downtown Toronto
+M5L,"Commerce Court,Victoria Hotel",Downtown Toronto
+M5M,"Bedford Park,Lawrence Manor East",North York
+M5N,Roselawn,Central Toronto
+M5P,"Forest Hill North,Forest Hill West",Central Toronto
+M5R,"The Annex,North Midtown,Yorkville",Central Toronto
+M5S,"Harbord,University of Toronto",Downtown Toronto
+M5T,"Chinatown,Grange Park,Kensington Market",Downtown Toronto
+M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+M5W,Stn A PO Boxes 25 The Esplanade,Downtown Toronto
+M5X,"First Canadian Place,Underground city",Downtown Toronto
+M6A,"Lawrence Heights,Lawrence Manor",North York
+M6B,Glencairn,North York
+M6C,Humewood-Cedarvale,York
+M6E,Caledonia-Fairbanks,York
+M6G,Christie,Downtown Toronto
+M6H,"Dovercourt Village,Dufferin",West Toronto
+M6J,"Little Portugal,Trinity",West Toronto
+M6K,"Brockton,Exhibition Place,Parkdale Village",West Toronto
+M6L,"Downsview,North Park,Upwood Park",North York
+M6M,"Del Ray,Keelesdale,Mount Dennis,Silverthorn",York
+M6N,"The Junction North,Runnymede",York
+M6P,"High Park,The Junction South",West Toronto
+M6R,"Parkdale,Roncesvalles",West Toronto
+M6S,"Runnymede,Swansea",West Toronto
+M7A,Queen's Park,Queen's Park
+M7R,Canada Post Gateway Processing Centre,Mississauga
+M7Y,Business Reply Mail Processing Centre 969 Eastern,East Toronto
+M8V,"Humber Bay Shores,Mimico South,New Toronto",Etobicoke
+M8W,"Alderwood,Long Branch",Etobicoke
+M8X,"The Kingsway,Montgomery Road,Old Mill North",Etobicoke
+M8Y,"Humber Bay,King's Mill Park,Kingsway Park South East,Mimico NE,Old Mill South,The Queensway East,Royal York South East,Sunnylea",Etobicoke
+M8Z,"Kingsway Park South West,Mimico NW,The Queensway West,Royal York South West,South of Bloor",Etobicoke
+M9A,Islington Avenue,Etobicoke
+M9B,"Cloverdale,Islington,Martin Grove,Princess Gardens,West Deane Park",Etobicoke
+M9C,"Bloordale Gardens,Eringate,Markland Wood,Old Burnhamthorpe",Etobicoke
+M9L,Humber Summit,North York
+M9M,"Emery,Humberlea",North York
+M9N,Weston,York
+M9P,Westmount,Etobicoke
+M9R,"Kingsview Village,Martin Grove Gardens,Richview Gardens,St. Phillips",Etobicoke
+M9V,"Albion Gardens,Beaumond Heights,Humbergate,Jamestown,Mount Olive,Silverstone,South Steeles,Thistletown",Etobicoke
+M9W,Northwest,Etobicoke
