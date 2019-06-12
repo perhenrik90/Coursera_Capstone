@@ -1,0 +1,580 @@
+"07459: Befolkning, etter region, statistikkvariabel og år"
+
+"region";"Personer 2019"
+"0101 Halden";31177
+"0102 Sarpsborg (-1991)";0
+"0103 Fredrikstad (-1993)";0
+"0104 Moss";32726
+"0105 Sarpsborg";55997
+"0106 Fredrikstad";81772
+"0111 Hvaler";4599
+"0113 Borge (-1993)";0
+"0114 Varteig (-1991)";0
+"0115 Skjeberg (-1991)";0
+"0116 Berg  (-1966)";0
+"0117 Idd (-1966)";0
+"0118 Aremark";1357
+"0119 Marker";3592
+"0121 Rømskog";673
+"0122 Trøgstad";5347
+"0123 Spydeberg";6042
+"0124 Askim";15865
+"0125 Eidsberg";11424
+"0127 Skiptvet";3797
+"0128 Rakkestad";8230
+"0130 Tune (-1991)";0
+"0131 Rolvsøy (1911-1993)";0
+"0133 Kråkerøy (1908-1993)";0
+"0134 Onsøy (-1993)";0
+"0135 Råde";7542
+"0136 Rygge";16145
+"0137 Våler (Østfold)";5593
+"0138 Hobøl";5642
+"0199 Uoppgitt kommune Østfold";0
+"0211 Vestby";17824
+"0213 Ski";30843
+"0214 Ås";20335
+"0215 Frogn";15761
+"0216 Nesodden";19488
+"0217 Oppegård";27394
+"0219 Bærum";126841
+"0220 Asker";61523
+"0221 Aurskog-Høland";16500
+"0226 Sørum";18263
+"0227 Fet";11842
+"0228 Rælingen";18161
+"0229 Enebakk";11026
+"0230 Lørenskog";40106
+"0231 Skedsmo";55652
+"0233 Nittedal";24089
+"0234 Gjerdrum";6823
+"0235 Ullensaker";38234
+"0236 Nes (Akershus)";21885
+"0237 Eidsvoll";24919
+"0238 Nannestad";13682
+"0239 Hurdal";2864
+"0299 Uoppgitt kommune Akershus";0
+"0301 Oslo kommune";681071
+"0399 Uoppgitt komm. Oslo";0
+"0401 Hamar (-1991)";0
+"0402 Kongsvinger";17823
+"0403 Hamar";31144
+"0412 Ringsaker";34488
+"0414 Vang (-1991)";0
+"0415 Løten";7663
+"0417 Stange";20916
+"0418 Nord-Odal";5024
+"0419 Sør-Odal";7879
+"0420 Eidskog";6114
+"0423 Grue";4646
+"0425 Åsnes";7214
+"0426 Våler (Hedmark)";3705
+"0427 Elverum";21191
+"0428 Trysil";6607
+"0429 Åmot";4407
+"0430 Stor-Elvdal";2459
+"0432 Rendalen";1791
+"0434 Engerdal";1286
+"0435 Tolga-Os (1966-1975)";0
+"0436 Tolga";1551
+"0437 Tynset";5591
+"0438 Alvdal";2418
+"0439 Folldal";1577
+"0441 Os (Hedmark)";1912
+"0499 Uoppgitt kommune Hedmark";0
+"0501 Lillehammer";28023
+"0502 Gjøvik";30676
+"0511 Dovre";2615
+"0512 Lesja";2009
+"0513 Skjåk";2204
+"0514 Lom";2293
+"0515 Vågå";3589
+"0516 Nord-Fron";5742
+"0517 Sel";5789
+"0518 Fron (1966-1976)";0
+"0519 Sør-Fron";3127
+"0520 Ringebu";4425
+"0521 Øyer";5119
+"0522 Gausdal";6112
+"0528 Østre Toten";14948
+"0529 Vestre Toten";13384
+"0532 Jevnaker";6846
+"0533 Lunner";9051
+"0534 Gran";13642
+"0536 Søndre Land";5623
+"0538 Nordre Land";6671
+"0540 Sør-Aurdal";2981
+"0541 Etnedal";1305
+"0542 Nord-Aurdal";6418
+"0543 Vestre Slidre";2135
+"0544 Øystre Slidre";3208
+"0545 Vang";1610
+"0599 Uoppgitt kommune Oppland";0
+"0601 Ringerike (1964-1976)";0
+"0602 Drammen";68933
+"0604 Kongsberg";27481
+"0605 Ringerike";30442
+"0612 Hole";6845
+"0615 Flå";1052
+"0616 Nes (Buskerud)";3315
+"0617 Gol";4576
+"0618 Hemsedal";2481
+"0619 Ål";4671
+"0620 Hol";4473
+"0621 Sigdal";3490
+"0622 Krødsherad";2239
+"0623 Modum";13980
+"0624 Øvre Eiker";19117
+"0625 Nedre Eiker";24963
+"0626 Lier";26373
+"0627 Røyken";22635
+"0628 Hurum";9521
+"0631 Flesberg";2694
+"0632 Rollag";1419
+"0633 Nore og Uvdal";2448
+"0699 Uoppgitt kommune Buskerud";0
+"0701 Horten";27334
+"0702 Holmestrand (-2017)";0
+"0703 Horten (-1987)";0
+"0704 Tønsberg";45976
+"0705 Tønsberg (-1987)";0
+"0706 Sandefjord (-2016)";0
+"0707 Larvik (-1987)";0
+"0708 Stavern (1944-1987)";0
+"0709 Larvik (-2017)";0
+"0710 Sandefjord";63271
+"0711 Svelvik";6685
+"0712 Larvik";47107
+"0713 Sande (Vestfold)";9904
+"0714 Hof (-2017)";0
+"0715 Holmestrand";14371
+"0716 Re";9730
+"0717 Borre (-1987)";0
+"0718 Ramnes (-2001)";0
+"0719 Andebu (-2016)";0
+"0720 Stokke (-2016)";0
+"0721 Sem (-1987)";0
+"0722 Nøtterøy (-2017)";0
+"0723 Tjøme (-2017)";0
+"0724 Sandar (-1967)";0
+"0725 Tjølling (-1987)";0
+"0726 Brunlanes (-1987)";0
+"0727 Hedrum (-1987)";0
+"0728 Lardal (-2017)";0
+"0729 Færder";26700
+"0799 Uoppgitt kommune Vestfold";0
+"0805 Porsgrunn";36224
+"0806 Skien";54645
+"0807 Notodden";12682
+"0811 Siljan";2329
+"0814 Bamble";14089
+"0815 Kragerø";10406
+"0817 Drangedal";4080
+"0819 Nome";6538
+"0821 Bø (Telemark)";6630
+"0822 Sauherad";4293
+"0826 Tinn";5780
+"0827 Hjartdal";1572
+"0828 Seljord";2934
+"0829 Kviteseid";2403
+"0830 Nissedal";1476
+"0831 Fyresdal";1286
+"0833 Tokke";2228
+"0834 Vinje";3723
+"0899 Uoppgitt kommune Telemark";0
+"0901 Risør";6848
+"0903 Arendal (-1991)";0
+"0904 Grimstad";23246
+"0906 Arendal";44785
+"0911 Gjerstad";2454
+"0912 Vegårshei";2093
+"0914 Tvedestrand";6069
+"0918 Moland (1962-1991)";0
+"0919 Froland";5845
+"0920 Øyestad (-1991)";0
+"0921 Tromøy (-1991)";0
+"0922 Hisøy (-1991)";0
+"0923 Fjære (-1970)";0
+"0924 Landvik (-1970)";0
+"0926 Lillesand";10990
+"0928 Birkenes";5212
+"0929 Åmli";1848
+"0932 Mykland (-1966)";0
+"0933 Herefoss (-1966)";0
+"0935 Iveland";1326
+"0937 Evje og Hornnes";3638
+"0938 Bygland";1192
+"0940 Valle";1156
+"0941 Bykle";953
+"0999 Uoppgitt kommune Aust-Agder";0
+"1001 Kristiansand";92282
+"1002 Mandal";15659
+"1003 Farsund";9695
+"1004 Flekkefjord";9066
+"1014 Vennesla";14630
+"1017 Songdalen";6706
+"1018 Søgne";11403
+"1021 Marnardal";2297
+"1026 Åseral";939
+"1027 Audnedal";1780
+"1029 Lindesnes";4953
+"1032 Lyngdal";8609
+"1034 Hægebostad";1683
+"1037 Kvinesdal";6048
+"1046 Sirdal";1839
+"1099 Uoppgitt kommune Vest-Agder";0
+"1101 Eigersund";14830
+"1102 Sandnes";77246
+"1103 Stavanger";134037
+"1106 Haugesund";37250
+"1111 Sokndal";3305
+"1112 Lund";3213
+"1114 Bjerkreim";2807
+"1119 Hå";18814
+"1120 Klepp";19354
+"1121 Time";18795
+"1122 Gjesdal";11899
+"1124 Sola";26582
+"1127 Randaberg";11053
+"1129 Forsand";1193
+"1130 Strand";12720
+"1133 Hjelmeland";2684
+"1134 Suldal";3794
+"1135 Sauda";4597
+"1141 Finnøy";3150
+"1142 Rennesøy";4847
+"1144 Kvitsøy";516
+"1145 Bokn";840
+"1146 Tysvær";11028
+"1149 Karmøy";42161
+"1151 Utsira";196
+"1154 Vindafjord (1965-2005)";0
+"1159 Ølen (2002-2005)";0
+"1160 Vindafjord";8743
+"1199 Uoppgitt kommune Rogaland";0
+"1201 Bergen";281190
+"1211 Etne";4077
+"1214 Ølen (-2001)";0
+"1216 Sveio";5721
+"1219 Bømlo";11960
+"1221 Stord";18699
+"1222 Fitjar";3201
+"1223 Tysnes";2846
+"1224 Kvinnherad";13137
+"1227 Jondal";1087
+"1228 Odda";6745
+"1230 Ullensvang (-1976)";0
+"1231 Ullensvang";3320
+"1232 Eidfjord";906
+"1233 Ulvik";1093
+"1234 Granvin";937
+"1235 Voss";14606
+"1238 Kvam";8441
+"1241 Fusa";3861
+"1242 Samnanger";2465
+"1243 Os (Hordaland)";20804
+"1244 Austevoll";5212
+"1245 Sund";7062
+"1246 Fjell";26166
+"1247 Askøy";29275
+"1248 Laksevåg (1918-1971)";0
+"1249 Fana (-1971)";0
+"1250 Arna (1964-1971)";0
+"1251 Vaksdal";4045
+"1252 Modalen";380
+"1253 Osterøy";8120
+"1255 Åsane (-1971)";0
+"1256 Meland";8187
+"1259 Øygarden";4889
+"1260 Radøy";5091
+"1263 Lindås";15812
+"1264 Austrheim";2887
+"1265 Fedje";562
+"1266 Masfjorden";1711
+"1299 Uoppgitt kommune Hordaland";0
+"1301 Bergen (-1971)";0
+"1401 Flora";11852
+"1411 Gulen";2322
+"1412 Solund";820
+"1413 Hyllestad";1366
+"1416 Høyanger";4091
+"1417 Vik";2672
+"1418 Balestrand";1279
+"1419 Leikanger";2331
+"1420 Sogndal";8191
+"1421 Aurland";1764
+"1422 Lærdal";2151
+"1424 Årdal";5245
+"1426 Luster";5195
+"1428 Askvoll";3038
+"1429 Fjaler";2770
+"1430 Gaular";3027
+"1431 Jølster";3047
+"1432 Førde";13092
+"1433 Naustdal";2793
+"1438 Bremanger";3705
+"1439 Vågsøy";5970
+"1441 Selje";2747
+"1443 Eid";6151
+"1444 Hornindal";1152
+"1445 Gloppen";5836
+"1448 Stryn (-1976)";0
+"1449 Stryn";7167
+"1499 Uoppgitt kommune Sogn og Fjordane";0
+"1501 Ålesund (-1976)";0
+"1502 Molde";27001
+"1503 Kristiansund  (-2007)";0
+"1504 Ålesund";47998
+"1505 Kristiansund";24274
+"1511 Vanylven";3163
+"1514 Sande (Møre og Romsdal)";2493
+"1515 Herøy (Møre og Romsdal)";8927
+"1516 Ulstein";8609
+"1517 Hareid";5155
+"1519 Volda";9197
+"1520 Ørsta";10857
+"1523 Ørskog";2250
+"1524 Norddal";1645
+"1525 Stranda";4565
+"1526 Stordal";947
+"1527 Ørskog (-1976)";0
+"1528 Sykkylven";7657
+"1529 Skodje";4764
+"1531 Sula";9271
+"1532 Giske";8398
+"1534 Haram";9383
+"1535 Vestnes";6536
+"1539 Rauma";7487
+"1543 Nesset";2956
+"1545 Midsund";2019
+"1546 Sandøy";1238
+"1547 Aukra";3539
+"1548 Fræna";9800
+"1551 Eide";3433
+"1554 Averøy";5849
+"1556 Frei (-2007)";0
+"1557 Gjemnes";2641
+"1560 Tingvoll";3045
+"1563 Sunndal";7106
+"1566 Surnadal";5928
+"1567 Rindal (-2018)";0
+"1569 Aure (-2005)";0
+"1571 Halsa";1574
+"1572 Tustna (-2005)";0
+"1573 Smøla";2134
+"1576 Aure";3553
+"1599 Uoppgitt kommune Møre og Romsdal";0
+"5001 Trondheim";196159
+"5004 Steinkjer";22090
+"5005 Namsos";13113
+"5011 Hemne";4228
+"5012 Snillfjord";999
+"5013 Hitra";4694
+"5014 Frøya";5068
+"5015 Ørland";5334
+"5016 Agdenes";1693
+"5017 Bjugn";4904
+"5018 Åfjord";3340
+"5019 Roan";957
+"5020 Osen";947
+"5021 Oppdal";6975
+"5022 Rennebu";2501
+"5023 Meldal";3905
+"5024 Orkdal";12086
+"5025 Røros";5610
+"5026 Holtålen";2025
+"5027 Midtre Gauldal";6246
+"5028 Melhus";16562
+"5029 Skaun";8231
+"5030 Klæbu";6076
+"5031 Malvik";14040
+"5032 Selbu";4088
+"5033 Tydal";794
+"5034 Meråker";2432
+"5035 Stjørdal";24028
+"5036 Frosta";2632
+"5037 Levanger";20254
+"5038 Verdal";14933
+"5039 Verran";2449
+"5040 Namdalseid";1576
+"5041 Snåase - Snåsa";2100
+"5042 Lierne";1386
+"5043 Raarvihke - Røyrvik";482
+"5044 Namsskogan";871
+"5045 Grong";2374
+"5046 Høylandet";1254
+"5047 Overhalla";3879
+"5048 Fosnes";605
+"5049 Flatanger";1103
+"5050 Vikna";4578
+"5051 Nærøy";5072
+"5052 Leka";567
+"5053 Inderøy";6804
+"5054 Indre Fosen";9988
+"5061 Rindal";2028
+"1601 Trondheim (-2017)";0
+"1612 Hemne (-2017)";0
+"1613 Snillfjord (-2017)";0
+"1617 Hitra (-2017)";0
+"1620 Frøya (-2017)";0
+"1621 Ørland (-2017)";0
+"1622 Agdenes (-2017)";0
+"1624 Rissa (-2017)";0
+"1627 Bjugn (-2017)";0
+"1630 Åfjord (-2017)";0
+"1632 Roan (-2017)";0
+"1633 Osen (-2017)";0
+"1634 Oppdal (-2017)";0
+"1635 Rennebu (-2017)";0
+"1636 Meldal (-2017)";0
+"1638 Orkdal (-2017)";0
+"1640 Røros (-2017)";0
+"1644 Holtålen (-2017)";0
+"1645 Haltdalen (-1971)";0
+"1648 Midtre Gauldal (-2017)";0
+"1653 Melhus (-2017)";0
+"1657 Skaun (-2017)";0
+"1662 Klæbu (-2017)";0
+"1663 Malvik (-2017)";0
+"1664 Selbu (-2017)";0
+"1665 Tydal (-2017)";0
+"1699 Uoppgitt kommune Sør-Trøndelag";0
+"1702 Steinkjer (-2017)";0
+"1703 Namsos (-2017)";0
+"1711 Meråker (-2017)";0
+"1714 Stjørdal (-2017)";0
+"1717 Frosta (-2017)";0
+"1718 Leksvik (-2017)";0
+"1719 Levanger (-2017)";0
+"1721 Verdal (-2017)";0
+"1723 Mosvik  (-2011)";0
+"1724 Verran (-2017)";0
+"1725 Namdalseid (-2017)";0
+"1729 Inderøy (-2011)";0
+"1736 Snåase - Snåsa (-2017)";0
+"1738 Lierne (-2017)";0
+"1739 Raarvihke - Røyrvik (-2017)";0
+"1740 Namsskogan (-2017)";0
+"1742 Grong (-2017)";0
+"1743 Høylandet (-2017)";0
+"1744 Overhalla (-2017)";0
+"1748 Fosnes (-2017)";0
+"1749 Flatanger (-2017)";0
+"1750 Vikna (-2017)";0
+"1751 Nærøy (-2017)";0
+"1755 Leka (-2017)";0
+"1756 Inderøy (-2017)";0
+"1799 Uoppgitt kommune Nord-Trøndelag";0
+"1804 Bodø";52024
+"1805 Narvik";18630
+"1811 Bindal";1450
+"1812 Sømna";2014
+"1813 Brønnøy";7916
+"1814 Brønnøy (-1976)";0
+"1815 Vega";1232
+"1816 Vevelstad";497
+"1818 Herøy (Nordland)";1780
+"1820 Alstahaug";7415
+"1822 Leirfjord";2320
+"1824 Vefsn";13403
+"1825 Grane";1493
+"1826 Hattfjelldal";1359
+"1827 Dønna";1391
+"1828 Nesna";1792
+"1832 Hemnes";4501
+"1833 Rana";26315
+"1834 Lurøy";1904
+"1835 Træna";456
+"1836 Rødøy";1238
+"1837 Meløy";6331
+"1838 Gildeskål";1978
+"1839 Beiarn";1022
+"1840 Saltdal";4657
+"1841 Fauske - Fuosko";9760
+"1842 Skjerstad (-2004)";0
+"1843 Bodin (-1967)";0
+"1845 Sørfold";1975
+"1848 Steigen";2576
+"1849 Hamarøy - Hábmer";1747
+"1850 Divtasvuodna - Tysfjord";1925
+"1851 Lødingen";2077
+"1852 Tjeldsund";1259
+"1853 Evenes";1387
+"1854 Ballangen";2470
+"1855 Ankenes (-1973)";0
+"1856 Røst";508
+"1857 Værøy";732
+"1858 Moskenes (1916-1975)";0
+"1859 Flakstad";1292
+"1860 Vestvågøy";11480
+"1865 Vågan";9595
+"1866 Hadsel";8091
+"1867 Bø (Nordland)";2616
+"1868 Øksnes";4449
+"1870 Sortland - Suortá";10518
+"1871 Andøy";4771
+"1874 Moskenes";1039
+"1899 Uoppgitt kommune Nordland";0
+"1901 Harstad (-2012)";0
+"1902 Tromsø";76649
+"1903 Harstad - Hárstták";24827
+"1911 Kvæfjord";2858
+"1913 Skånland";3009
+"1915 Bjarkøy (-2012)";0
+"1917 Ibestad";1375
+"1919 Gratangen";1105
+"1920 Loabák - Lavangen";1042
+"1921 Salangen (-1976)";0
+"1922 Bardu";4030
+"1923 Salangen";2183
+"1924 Målselv";6805
+"1925 Sørreisa";3489
+"1926 Dyrøy";1129
+"1927 Tranøy";1513
+"1928 Torsken";931
+"1929 Berg";888
+"1931 Lenvik";11679
+"1933 Balsfjord";5625
+"1936 Karlsøy";2252
+"1938 Lyngen";2847
+"1939 Storfjord - Omasvuotna - Omasvuono";1841
+"1940 Gáivuotna - Kåfjord - Kaivuono";2097
+"1941 Skjervøy";2917
+"1942 Nordreisa - Ráisa - Raisi";4909
+"1943 Kvænangen";1202
+"1999 Uoppgitt kommune Troms";0
+"2001 Hammerfest (-1991)";0
+"2002 Vardø";2081
+"2003 Vadsø";5894
+"2004 Hammerfest";10536
+"2011 Guovdageaidnu - Kautokeino";2924
+"2012 Alta";20665
+"2014 Loppa";917
+"2015 Hasvik";1045
+"2016 Sørøysund (-1991)";0
+"2017 Kvalsund";988
+"2018 Måsøy";1235
+"2019 Nordkapp";3218
+"2020 Porsanger - Porsángu - Porsanki";3944
+"2021 Kárásjohka - Karasjok";2673
+"2022 Lebesby";1328
+"2023 Gamvik";1169
+"2024 Berlevåg";981
+"2025 Deatnu - Tana";2900
+"2027 Unjárga - Nesseby";941
+"2028 Båtsfjord";2270
+"2030 Sør-Varanger";10156
+"2099 Uoppgitt kommune Finnmark";0
+"2111 Longyearbyen";0
+"2112 Ny-Ålesund";0
+"2115 Svea";0
+"2121 Bjørnøya";0
+"2131 Hopen";0
+"2199 Uoppgitt kommune Svalbard";0
+"2211 Jan Mayen";0
+"2299 Uoppgitt Jan Mayen";0
+"2300 Kontinentalsokkelen";0
+"2311 Sokkelen sør for 62° N";0
+"2321 Sokkelen nord for 62° N";0
+"2399 Sokkelen, uspesifisert";0
+"9999 Uoppgitt kommune";0
